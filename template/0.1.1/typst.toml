@@ -1,0 +1,4 @@
+[package]
+name = "rin-template"
+version = "0.1.1"
+entrypoint = "template.typ"
